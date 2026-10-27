@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "131151398708",
+    "project_id": "gharse-411af",
+    "storage_bucket": "gharse-411af.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131151398708:android:745859486a015193cd8761",
+        "android_client_info": {
+          "package_name": "com.example.ghar_se_market"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131151398708-l6bhukk016n8i72aisf8thjrgmusn97s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghar_se_market",
+            "certificate_hash": "b4039317d99561e5560f8331207d99827e3450e7"
+          }
+        },
+        {
+          "client_id": "131151398708-4figfvpttt5cst68cftlk7ek9pa97akh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJCJlKaO9wZzAcA-XWKRdlxj-ayjKaXuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131151398708-4figfvpttt5cst68cftlk7ek9pa97akh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
